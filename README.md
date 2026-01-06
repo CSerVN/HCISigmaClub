@@ -30,7 +30,7 @@ MÔ TẢ ỨNG DỤNG HỌC TIẾNG ANH SIGMAENGLISH APP - GIAO TIẾP NGƯỜI 
 
 6. Đánh giá hiệu quả
 - Tiêu chí:
-- Độ chính xác nhận diện giọng nói.
-- Mức độ hài lòng của người dùng (qua khảo sát).
-- Tần suất sử dụng ứng dụng.
-- Kết quả mong đợi: Người dùng cải thiện khả năng giao tiếp tiếng Anh sau 4–6 tuần sử dụng.
+      + Độ chính xác nhận diện giọng nói.
+      + Mức độ hài lòng của người dùng (qua khảo sát).
+      + Tần suất sử dụng ứng dụng.
+      + Kết quả mong đợi: Người dùng cải thiện khả năng giao tiếp tiếng Anh sau 4–6 tuần sử dụng.
