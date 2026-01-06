@@ -24,9 +24,9 @@ MÔ TẢ ỨNG DỤNG HỌC TIẾNG ANH SIGMAENGLISH APP - GIAO TIẾP NGƯỜI 
 - Nguyên tắc: Đơn giản – trực quan – thân thiện.
 - Màn hình chính: Thanh menu (Học từ vựng, Luyện nói, Trò chuyện, Thống kê, Cá nhân, Bản đồ hành trình).
 - Tương tác:
-- Chạm (touch) để chọn bài học.
-- Giọng nói để trả lời câu hỏi hoặc luyện phát âm.
-- Phản hồi tức thì bằng âm thanh, hình ảnh, hoặc văn bản.
+    + Chạm (touch) để chọn bài học.
+    + Giọng nói để trả lời câu hỏi hoặc luyện phát âm.
+    + Phản hồi tức thì bằng âm thanh, hình ảnh, hoặc văn bản.
 
 6. Đánh giá hiệu quả
 - Tiêu chí:
