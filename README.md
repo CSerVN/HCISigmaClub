@@ -15,9 +15,9 @@ MÔ TẢ ỨNG DỤNG HỌC TIẾNG ANH SIGMAENGLISH APP - GIAO TIẾP NGƯỜI 
 
 4. Chức năng chính
 - Nhận diện giọng nói: Người dùng luyện phát âm, hệ thống chấm điểm và đưa ra gợi ý sửa lỗi.
-- Học từ vựng & ngữ pháp: Flashcards, bài tập trắc nghiệm, ví dụ minh họa.
+- Học từ vựng & ngữ pháp: Flashcards, bài tập trắc nghiệm, cung cấp lộ trình ôn luyện IELTS, ví dụ minh họa.
 - Chatbot giao tiếp: Người dùng trò chuyện với chatbot bằng tiếng Anh, nhận phản hồi tức thì.
-- Gamification: Hệ thống điểm thưởng, cấp độ, bài tập đa dạng, có chấm chữa lỗi, bảng xếp hạng để tăng động lực học.
+- Gamification: Hệ thống điểm thưởng, cấp độ, bài tập đa dạng, có chấm chữa lỗi để tăng động lực học tập.
 - Profile theo dạng portfolio chứa thông tin người dùng; thống kê, theo dõi tiến độ học tập theo thời gian.
 
 5. Thiết kế giao diện (Human–Computer Interaction)
